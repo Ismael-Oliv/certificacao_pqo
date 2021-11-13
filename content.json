@@ -1,0 +1,64 @@
+{
+  "operacoes": [
+    {
+      "modulo": "01",
+      "subject": "Simulado"
+    },
+    {
+      "modulo": "Modulo 1",
+      "subject": "SISTEMA FINANCEIRO NACIONAL E MERCADO DE CAPITAIS"
+    },
+    {
+      "modulo": "Modulo 2",
+      "subject": "INFRAESTRUTURA DO SISTEMA FINANCEIRO NACIONAL"
+    },
+    {
+      "modulo": "Modulo 3",
+      "subject": "A B3 NO MERCADO FINANCEIRO E DE CAPITAIS"
+    },
+    {
+      "modulo": "Modulo 4",
+      "subject": "Mercado de Renda Variável"
+    },
+    {
+      "modulo": "Modulo 5",
+      "subject": "Mercado de Derivativos Financeiros e DE Commodities"
+    },
+    {
+      "modulo": "Modulo 6",
+      "subject": "Mercado de Renda Fixa"
+    },
+    {
+      "modulo": "Modulo 7",
+      "subject": "Mercado de Câmbio"
+    },
+    {
+      "modulo": "Modulo 8",
+      "subject": "FUNDOS E CLUBES DE INVESTIMENTO"
+    },
+    {
+      "modulo": "Modulo 9",
+      "subject": "TRIBUTAÇÃO"
+    },
+    {
+      "modulo": "Modulo 10",
+      "subject": "GESTÃO DE RISCO NA CÂMARA B3"
+    },
+    {
+      "modulo": "Modulo 11",
+      "subject": "RISCO CORPORATIVO, CONTROLES INTERNOS, AUDITORIA INTERNA E COMPLIANCE"
+    },
+    {
+      "modulo": "Modulo 12",
+      "subject": "ESTRUTURA DE CONTAS E CADASTRO DE INVESTIDORES"
+    },
+    {
+      "modulo": "Modulo 13",
+      "subject": "PROCEDIMENTOS OPERACIONAIS DA B3"
+    },
+    {
+      "modulo": "Modulo 14",
+      "subject": "PROCEDIMENTOS OPERACIONAIS DA CÂMARA DA B3"
+    }
+  ]
+}
