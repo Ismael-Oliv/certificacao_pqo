@@ -1,9 +1,9 @@
 import type { GetStaticProps } from "next";
 import Prismic from "@prismicio/client";
-import { useCallback, useState } from "react";
+import { useState } from "react";
 import { RichText } from "prismic-dom";
 import { ImLinkedin, ImInstagram } from "react-icons/im";
-import { Modal } from "./components/modal";
+import Modal from "./components/modal";
 import { getPrismicClient } from "../services/prismic";
 
 import styles from "../../styles/Home.module.scss";

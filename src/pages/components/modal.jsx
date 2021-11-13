@@ -4,7 +4,7 @@ import { FiXCircle } from "react-icons/fi";
 
 import styles from "./styles.module.scss";
 
-export const Modal = ({ show, onClose, data, course }) => {
+export default function Modal({ show, onClose, data, course }) {
   const [isBrowser, setIsBrowser] = useState(false);
 
   useEffect(() => {
@@ -51,4 +51,4 @@ export const Modal = ({ show, onClose, data, course }) => {
   } else {
     return null;
   }
-};
+}
